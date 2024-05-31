@@ -9,7 +9,7 @@ This repository contains the following deliverables for the Monte Carlo Methods 
    - **Objective:** To estimate the volume of a geometric region using Monte Carlo methods.
   
 * **Exercise 4: Comparison of Worst-Case Criteria Sample Size**
-   - **Objective:** To compare and discuss the dependence of worst-case criteria sample size \(n_C\) (Chebyshev), \(n_N\) (Central Limit Theorem), and \(n_H\) (Hoeffding) on the parameters \(\epsilon\) (confidence interval size) and \(\delta\) (confidence interval level).
+   - **Objective:** To compare and discuss the dependence of worst-case criteria sample size $n_C$ (Chebyshev), $n_N$ (Central Limit Theorem), and $n_H$ (Hoeffding) on the parameters $\epsilon$ (confidence interval size) and $\delta$ (confidence interval level).
 
 * **Exercise 5: Volume Estimation Using Monte Carlo Methods (Exercise 3 revisit)**
    - **Objective:** To estimate the volume of a geometric region using Monte Carlo methods, calculating the necessary replications for desired accuracy and estimaging confidence intervals using different statistical criteria.
